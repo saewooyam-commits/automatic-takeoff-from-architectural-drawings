@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+dxf_cache/
+*_창호물량.xlsx
+*_검토도면.pdf
+*_로그.txt
+마지막결과.txt
+실행기록.csv

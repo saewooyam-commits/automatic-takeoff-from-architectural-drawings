@@ -1,0 +1,5 @@
+pymupdf
+ezdxf
+openpyxl
+xlrd
+pillow
